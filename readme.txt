@@ -1,5 +1,5 @@
-Welcome to MyProject
+Welcome to "Git for MyProject"
 
 
-Author: KOLLAGUNTA k MUNI SEKHAR Royal
+Author: KOLLAGUNTA  MUNI SEKHAR
 Twitter: @muniroy
