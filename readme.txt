@@ -2,6 +2,6 @@ Welcome to MyProject
 
 
 
-Author: KOLLAGUNTA MUNI SEKHAR
+Author: KOLLAGUNTA MUNI SEKHAR Royal
 
 Twitter: @muniroy
